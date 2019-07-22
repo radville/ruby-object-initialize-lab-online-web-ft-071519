@@ -1,4 +1,5 @@
 class Person
-  initialize
-  
+  initialize(name)
+    @name
+  end
 end
